@@ -1,0 +1,13 @@
+"site" "colour" "proportion"
+"1" "Beach" "Beige" 22
+"2" "Beach" "Black" 0
+"3" "Beach" "Grey" 2
+"4" "Beach" "Red" 0
+"5" "Beach" "White" 63
+"6" "Beach" "Yellow" 13
+"7" "Wreck" "Beige" 41
+"8" "Wreck" "Black" 1
+"9" "Wreck" "Grey" 12
+"10" "Wreck" "Red" 1
+"11" "Wreck" "White" 31
+"12" "Wreck" "Yellow" 14
